@@ -8,6 +8,6 @@ For example we can type "I love internet"
 The second message from the program asks for the keyword that will be used to decrypt this message.
 We can enter "NYITV".
 The program will then show the decrypted message "ottiinveXerXlne".
-To check the run : https://github.com/kamranuddin1300670/NYITfiles.git
+To check the run : https://github.com/kamranuddin1300670/NYITfiles/blob/c04541aea363b1d5d10ffb550d01c84ca233d79f/Screenshot%20(35).png
 Then the program would ask for the message that needs to be decrypted. So we will type the decrypted message from the last output and then it asks for the keyword. The keyword is the same as used before "NYITV".
 Finally it will show the decrypted message, the cipher text and the keyword in the output.
